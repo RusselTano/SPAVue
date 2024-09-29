@@ -4,15 +4,14 @@
     <nav>
       <ul>
         <li><a href="#blog">Blog</a></li>
-        <li><a href="#contact"></a>Contact</li>
-        <li><a href="#"></a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
   </header>
 </template>
 
 
-<style scoped lang="scss">
+<style  lang="scss">
 .header {
   display: flex;
   align-items: center;
@@ -21,7 +20,7 @@
   border-bottom: 1px solid #fefefe;
 
   &__logo {
-    font-size: 2px;
+    font-size: 20px;
   }
 }
 
